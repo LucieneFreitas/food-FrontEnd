@@ -8,6 +8,7 @@
 </div>
 <br>
 
+Back-end: https://github.com/LucieneFreitas/food-BackEnd<br>
 Site funcionando: https://foodluciene.netlify.app
 
 # FOOD EXPLORER
